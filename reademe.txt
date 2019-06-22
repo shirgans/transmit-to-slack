@@ -1,0 +1,4 @@
+=== Transmit to Slack ===
+Contributors: shirgans
+Tags: slack, woocommerce, orders, api
+Donate link: https://www.paypal.me/shirgans
