@@ -2,3 +2,21 @@
 Contributors: shirgans
 Tags: slack, woocommerce, orders, api
 Donate link: https://www.paypal.me/shirgans
+Requires at least: 4.5.0
+Tested up to: 5.2.2
+Requires PHP: 5.2.4
+Stable tag: 5.2.2
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+== Description ==
+
+Instantly sends new orders from WooCommerce to your desired Slack channel.
+
+= Screenshots =
+
+- This is how new orders shows on Slack (Ver. 1.0)
+
+== Changelog ==
+= 1.0.0 - 2019-06-23 =
+* First version

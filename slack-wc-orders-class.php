@@ -5,7 +5,7 @@
  * Description: Transmit WooCommerce Orders to Slack
  * Author: Shir Gans
  * Author URI: https://www.ovs.co.il
- * Version: 1.0.5
+ * Version: 1.0.0
  * Text Domain: transmit-to-slack
  * Domain Path: /i18n/languages/
  *
